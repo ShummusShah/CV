@@ -201,6 +201,7 @@ img {
   border-style: none;
 }
 
+
 svg {
   overflow: hidden;
   vertical-align: middle;
@@ -10102,6 +10103,10 @@ p.lead {
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
 }
+
+
+
+
 
 .dev-icons {
   font-size: 3rem;
