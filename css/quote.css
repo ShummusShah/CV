@@ -1,0 +1,41 @@
+body{
+
+background-color: silver;
+
+}
+
+
+h1 {
+text-align: center;
+padding: 20px;
+margin:50px;
+
+}
+
+
+#quoteDisplay{
+color: red;
+font-size: 50px;
+text-align: center;
+padding: 100px;
+}
+
+
+#button{
+	size: 100px;
+	width: 500px;
+	height: 200px;	
+	font-size: 40px;
+	align-items: center;
+	align-content: center;
+	border: 2px;
+	background-color: transparent;
+
+}
+
+
+
+#quoteline{
+text-align: center;
+font-size: 20px;
+}
