@@ -89,6 +89,11 @@ var quotes = [
 function newQuote() {
 	var randomnumber = Math.floor(Math.random()*quotes.length);
 	document.getElementById('quoteDisplay').innerHTML = quotes[randomnumber];
-
 }
+
+
+
+//log on console for user the number of the quote is they wanted to see
+console.log(Math.floor(Math.random()*quotes.length))
+
 
