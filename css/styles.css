@@ -10104,6 +10104,15 @@ p.lead {
   background-color: #bd5d38;
 }
 
+.social-links{
+  height: 3.5rem;
+  width: 3.5rem;
+  display: inline-flex;
+  padding: 5px;
+  font-size: 1.5rem;
+
+}
+
 
 
 
