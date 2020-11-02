@@ -77,7 +77,9 @@ var quotes = [
 'Everything that exists is born for no reason, carries on living through weakness, and dies by accident – Jean-Paul Sartre',
 'Man is the measure of all things – Protagoras',
 'We are too weak to discover the truth by reason alone – St. Augustine',
-'The mind is furnished with ideas by experience alone – John Locke'
+'The mind is furnished with ideas by experience alone – John Locke',
+'A man with one watch knows what time it is; a man with two watches is never quite sure. ~Author unknown',
+'Even a clock that does not work is right twice a day. ~Polish proverb'
 ]
 
 
