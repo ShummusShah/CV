@@ -88,7 +88,7 @@ var quotes = [
 
 function newQuote() {
 	var randomnumber = Math.floor(Math.random()*quotes.length);
-	document.getElementById('quoteDisplay').innerHTML = quotes[randomnumber];
+	document.getElementById('quoteContainer').innerHTML = quotes[randomnumber];
 }
 
 
