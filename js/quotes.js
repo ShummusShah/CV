@@ -80,6 +80,7 @@ var quotes = [
 'The mind is furnished with ideas by experience alone – John Locke',
 'A man with one watch knows what time it is; a man with two watches is never quite sure. ~Author unknown',
 'Even a clock that does not work is right twice a day. ~Polish proverb'
+'In life we’re just made to follow this path that’s not really thought out or adapted to everybody - Rhiannon Campbell 2021'
 ]
 
 
