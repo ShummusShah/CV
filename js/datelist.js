@@ -14,7 +14,7 @@ var quotes = [
 'Go bowling',
 'Rent a speedboat on the thames',
 'Mini golf',
-'Netflix and Chill',
+//'Netflix and Chill',
 'Improve your aim at Flightclub / Shuffle Club',
 'Bottomless Brunch',
 'Clapham - Four thieves and then hit up surrounding bars',
